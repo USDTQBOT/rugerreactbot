@@ -3,7 +3,7 @@ services:
     name: newbot
     runtime: node
     plan: starter
-    repo: https://github.com/Malith-Rukshan/Auto-Reaction-Bot
+    repo: https://github.com/USDTQBOT/newbot
     buildCommand: npm install
     startCommand: node api/index.js
     envVars:
