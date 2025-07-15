@@ -50,14 +50,14 @@ export default {
                 await botApi.sendMessage(chatId, startMessage.replace('UserName', content.chat.type === "private" ? content.from.first_name : content.chat.title),
 				[
 					[
-                        {"text": "➕ Add to Channel ➕", "url": `https://t.me/${botUsername}?startchannel=botstart`},
-						{"text": "➕ Add to Group ➕", "url": `https://t.me/${botUsername}?startgroup=botstart`},
+                        {"text": "➕ Add to Channel ➕", "url": `https://t.me/rugerreactbot?startchannel=botstart`},
+						{"text": "➕ Add to Group ➕", "url": `https://t.me/rugerreactbot?startgroup=botstart`},
 					],
                     [
-                        {"text": "Github Source 📥", "url": "https://github.com/Malith-Rukshan/Auto-Reaction-Bot"},
+                        {"text": "Github Source 📥", "url": "https://github.com/usdtqbot/rugerreactbot"},
                     ],
                     [
-                        { "text": "💝 Support Us - Donate 🤝", "url": "https://t.me/Auto_ReactionBOT?start=donate" }
+                        { "text": "💝 Support Us - Donate 🤝", "url": "https://t.me/Rugerreactbot?start=donate" }
                     ]
 				]
 				);
