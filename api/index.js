@@ -1,6 +1,5 @@
 /*!
- * © [2024] Malith-Rukshan. All rights reserved.
- * Repository: https://github.com/USDTQBOT/newbot
+ * Repository: https://github.com/USDTQBOT/rugerreactbot
  */
 
 import express from 'express';
