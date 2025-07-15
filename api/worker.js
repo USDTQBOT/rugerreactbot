@@ -1,6 +1,5 @@
 /*!
- * © [2024] Malith-Rukshan. All rights reserved.
- * Repository: https://github.com/florflor247/newbot
+ * Repository: https://github.com/USDTQBOT/rugerreactbot
  */
 
 import TelegramBotAPI from "./TelegramBotAPI.js";
